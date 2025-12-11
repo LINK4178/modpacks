@@ -1,20 +1,18 @@
 ![CAPA](./capa.jpg)
 
-# LINK._.4178 MODPACKS
+# JOANINHA NAPOLITANA (minecraft)
 
-Este repositório contém modpacks de vários jogos jogados por LINK4178 e seus amigos.
+Versão do modpack: v0.5
+Última alteração: 10/12/2025
 
-Como funciona? é mais simples do que parece.
-
-1. Primeiro vá até o repositório (onde você ja está hehehe).
-2. Selecione a branch desejava, a atual é a 'main' não tem mod nenhum aqui.
-3. Clique em '<>Code' e depois em 'Download ZIP'.
+Modpack para minecraft java
+Plataforma: Forge
+Versão do jogo: 1.20.1
 
 ----
 
-## SUMÁRIO (branches)
-- Main
-- Joaninha-Napolitana
+## MODS
+- [mod de teste](https://modrinth.com/mod/modernfix)
 
 ----
 
