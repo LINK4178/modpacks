@@ -12,7 +12,30 @@ Versão do jogo: 1.20.1
 ----
 
 ## MODS
-- [mod de teste](https://modrinth.com/mod/modernfix)
+- Mods Base
+    - [ModernFix](https://modrinth.com/mod/modernfix)
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+- Mods Opcionais
+    - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
 
 ----
 
