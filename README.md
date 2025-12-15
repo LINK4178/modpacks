@@ -2,8 +2,8 @@
 
 # JOANINHA NAPOLITANA (minecraft)
 
-Versão do modpack: v0.9  
-Última alteração: 11/12/2025 10:35  
+Versão do modpack: v1.0  
+Última alteração: 15/12/2025 11:3  
 
 Modpack para minecraft java  
 Plataforma: Forge  
@@ -38,7 +38,6 @@ Versão do jogo: 1.20.1
     - [Clockwork](https://modrinth.com/mod/clockwork_mod)
     - [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks)
     - [Zoom](https://modrinth.com/mod/zoom)
-    - [Terralith](https://modrinth.com/mod/terralith)
     - [Passive Skill Tree](https://www.curseforge.com/minecraft/mc-mods/passive-skill-tree)
     - [Sit](https://modrinth.com/mod/bl4cks-sit)
     - [Resourcify](https://modrinth.com/mod/resourcify)
@@ -72,6 +71,31 @@ Versão do jogo: 1.20.1
     - [Let's Do Farm & Charm](https://modrinth.com/mod/lets-do-farm-charm)
     - [Bridging Mod](https://modrinth.com/mod/bridging-mod)
     - [Excessive Building](https://modrinth.com/mod/excessive-building)
+    - [Immersive Melodies](https://modrinth.com/mod/immersive-melodies)
+    - [Wolf Howling](https://modrinth.com/mod/wolf-howling)
+    - [Nature's Compass](https://modrinth.com/mod/natures-compass)
+    - [Explorer's Compass](https://modrinth.com/mod/explorers-compass)
+    - [Stalwart Dungeons](https://modrinth.com/mod/stalwart-dungeons)
+    - [Human Companions](https://www.curseforge.com/minecraft/mc-mods/human-companions)
+    - [Stargate Journey](https://modrinth.com/mod/sgjourney)
+    - [Stargate Early Loading](https://modrinth.com/mod/stargate-early-loading)
+    - [Wild west structures](https://modrinth.com/mod/wildwest-structures)
+    - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village)
+    - [Jaden's Nether Expansion](https://modrinth.com/mod/jadens-nether-expansion)
+    - [Jaden's Nether Expansion Delight](https://modrinth.com/mod/jadens-nether-expansion-delight)
+    - [Hydrological (Overworld Terrain & Biomes)](https://modrinth.com/mod/hydrological)
+    - [Sky Whale Ship](https://modrinth.com/mod/sky-whale-ship)
+    - [Countered's Terrain Slabs](https://modrinth.com/mod/countereds-terrain-slabs)
+    - [Stellarity](https://modrinth.com/datapack/stellarity)
+    - [Infinity Cave](https://modrinth.com/datapack/infinity-cave)
+    - [When Dungeons Arise](https://modrinth.com/mod/when-dungeons-arise)
+    - [The Bumblezone - NeoForge/Forge](https://modrinth.com/mod/the-bumblezone)
+    - [Simply Speakers](https://www.curseforge.com/minecraft/mc-mods/simply-speakers)
+    - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+    - [Polymorph](https://modrinth.com/mod/polymorph)
+    - [Oculus](https://modrinth.com/mod/oculus)
+    - [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights)
+    - [Sodium Options API](https://modrinth.com/mod/sodium-options-api)
     - []()  
 - Mods (Opcional)
     - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
@@ -91,10 +115,8 @@ Versão do jogo: 1.20.1
     - [BetterF3](https://modrinth.com/mod/betterf3)
     - [Auto HUD](https://modrinth.com/mod/autohud)
     - [Blur Forge (Unofficial)](https://modrinth.com/mod/blur-forge)
-    - [Oculus](https://modrinth.com/mod/oculus)
-    - [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights)
-    - [Sodium Options API](https://modrinth.com/mod/sodium-options-api)
     - [Immersive UI](https://modrinth.com/mod/immersive-ui)
+    - [Item Holograms](https://modrinth.com/mod/item-holograms)
     - []()  
 - Dependências (Obrigatório)
     - [CreativeCore](https://modrinth.com/mod/creativecore)

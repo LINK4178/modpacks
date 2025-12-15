@@ -1,0 +1,6 @@
+SOBRE OS MODS OPCIONAIS
+
+-dentro da pasta 'mods', tem todos os mods obrigatórios para o modpack funcionar.
+-as pastas 'resourcepacks' e 'shaderpacks' são algumas coisas visuais opcionais.
+-na pasta '_opcionais' estão os mods client-side, você não precisa colocar eles, no geral são mods visuais que nem todo mundo gosta.
+-mas caso queira esses mods visuais é só mover todo o conteúdo da pasta '_opcionais' para a pasta 'mods', simples.
