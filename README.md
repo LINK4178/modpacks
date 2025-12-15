@@ -3,7 +3,7 @@
 # JOANINHA NAPOLITANA (minecraft)
 
 Versão do modpack: v1.0  
-Última alteração: 15/12/2025 11:51  
+Última alteração: 15/12/2025 20:23  
 
 Modpack para minecraft java  
 Plataforma: Forge  
@@ -116,6 +116,7 @@ Versão do jogo: 1.20.1
     - [Blur Forge (Unofficial)](https://modrinth.com/mod/blur-forge)
     - [Immersive UI](https://modrinth.com/mod/immersive-ui)
     - [Item Holograms](https://modrinth.com/mod/item-holograms)
+    - [Subtle Effects](https://modrinth.com/mod/subtle-effects?loader=forge&version=1.20.1)
     - []()  
 - Dependências (Obrigatório)
     - [CreativeCore](https://modrinth.com/mod/creativecore)
