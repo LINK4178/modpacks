@@ -3,7 +3,7 @@
 # JOANINHA NAPOLITANA (minecraft)
 
 Versão do modpack: v1.0  
-Última alteração: 15/12/2025 11:40  
+Última alteração: 15/12/2025 11:51  
 
 Modpack para minecraft java  
 Plataforma: Forge  
@@ -109,7 +109,6 @@ Versão do jogo: 1.20.1
     - [Chat Heads](https://modrinth.com/mod/chat-heads)
     - [Chat Animation [Smooth Chat]](https://modrinth.com/mod/chatanimation)
     - [Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier)
-    - [Continuity](https://modrinth.com/mod/continuity)
     - [Wavey Capes](https://modrinth.com/mod/wavey-capes)
     - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
     - [BetterF3](https://modrinth.com/mod/betterf3)
