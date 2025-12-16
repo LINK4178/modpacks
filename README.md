@@ -2,8 +2,8 @@
 
 # JOANINHA NAPOLITANA (minecraft)
 
-Versão do modpack: v1.0  
-Última alteração: 15/12/2025 20:23  
+Versão do modpack: v1.1  
+Última alteração: 16/12/2025 12:02  
 
 Modpack para minecraft java  
 Plataforma: Forge  
@@ -96,6 +96,8 @@ Versão do jogo: 1.20.1
     - [Oculus](https://modrinth.com/mod/oculus)
     - [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights)
     - [Sodium Options API](https://modrinth.com/mod/sodium-options-api)
+    - [Pizza Delight](https://modrinth.com/mod/pizzadelight)
+    - [Nemo's Inventory Sorting](https://modrinth.com/mod/nemos-inventory-sorting)
     - []()  
 - Mods (Opcional)
     - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
@@ -153,6 +155,7 @@ Versão do jogo: 1.20.1
     - [Rainbow XP Bar](https://modrinth.com/resourcepack/rainbow-xp-bar)
     - [Detailed Animations](https://modrinth.com/resourcepack/detailed-animations)
     - [Bare Bones](https://modrinth.com/resourcepack/bare-bones)
+    - [Cherry Background](https://modrinth.com/resourcepack/cherry-background)
     - []()  
 - Shaders (Opcional)
     - [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined)
