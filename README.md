@@ -2,11 +2,11 @@
 
 # JOANINHA NAPOLITANA (minecraft)
 
-Versão do modpack: v1.2  
-Última alteração: 16/12/2025 13:17  
+Versão do modpack: v1.5(testes)  
+Última alteração: 16/12/2025 20:..  
 
 Modpack para minecraft java  
-Plataforma: Forge  
+Plataforma: Forge 47.4.13  
 Versão do jogo: 1.20.1  
 
 ----
@@ -101,6 +101,7 @@ Versão do jogo: 1.20.1
     - [Subtle Effects](https://modrinth.com/mod/subtle-effects?loader=forge&version=1.20.1)
     - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
     - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
+    - [Just Enough Items (JEI)](https://modrinth.com/mod/jei)
     - []()  
 - Mods (Opcional)
     - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
