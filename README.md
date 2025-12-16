@@ -2,8 +2,8 @@
 
 # JOANINHA NAPOLITANA (minecraft)
 
-Versão do modpack: v1.1  
-Última alteração: 16/12/2025 12:02  
+Versão do modpack: v1.2  
+Última alteração: 16/12/2025 13:17  
 
 Modpack para minecraft java  
 Plataforma: Forge  
@@ -93,20 +93,20 @@ Versão do jogo: 1.20.1
     - [Simply Speakers](https://www.curseforge.com/minecraft/mc-mods/simply-speakers)
     - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
     - [Polymorph](https://modrinth.com/mod/polymorph)
-    - [Oculus](https://modrinth.com/mod/oculus)
     - [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights)
     - [Sodium Options API](https://modrinth.com/mod/sodium-options-api)
     - [Pizza Delight](https://modrinth.com/mod/pizzadelight)
     - [Nemo's Inventory Sorting](https://modrinth.com/mod/nemos-inventory-sorting)
+    - [Particular Reforged](https://modrinth.com/mod/particular-reforged)
+    - [Subtle Effects](https://modrinth.com/mod/subtle-effects?loader=forge&version=1.20.1)
+    - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+    - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
     - []()  
 - Mods (Opcional)
     - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
     - [Particle Core](https://modrinth.com/mod/particle-core)
-    - [Particular Reforged](https://modrinth.com/mod/particular-reforged)
     - [Hold My Items - Reforged](https://modrinth.com/mod/hold-my-items-reforged)
     - [ItemPhysic Lite](https://modrinth.com/mod/itemphysic-lite)
-    - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
-    - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
     - [AppleSkin](https://modrinth.com/mod/appleskin)
     - [Chat Heads](https://modrinth.com/mod/chat-heads)
     - [Chat Animation [Smooth Chat]](https://modrinth.com/mod/chatanimation)
@@ -118,7 +118,7 @@ Versão do jogo: 1.20.1
     - [Blur Forge (Unofficial)](https://modrinth.com/mod/blur-forge)
     - [Immersive UI](https://modrinth.com/mod/immersive-ui)
     - [Item Holograms](https://modrinth.com/mod/item-holograms)
-    - [Subtle Effects](https://modrinth.com/mod/subtle-effects?loader=forge&version=1.20.1)
+    - [Oculus](https://modrinth.com/mod/oculus)
     - []()  
 - Dependências (Obrigatório)
     - [CreativeCore](https://modrinth.com/mod/creativecore)
