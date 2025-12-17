@@ -2,8 +2,8 @@
 
 # JOANINHA NAPOLITANA (minecraft)
 
-Versão do modpack: v1.5(testes)  
-Última alteração: 16/12/2025 20:..  
+Versão do modpack: v1.8(testes)  
+Última alteração: 16/12/2025 ..:..  
 
 Modpack para minecraft java  
 Plataforma: Forge 47.4.13  
